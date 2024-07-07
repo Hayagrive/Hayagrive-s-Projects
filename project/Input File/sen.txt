@@ -1,0 +1,8 @@
+Data mining, the extraction of hidden predictive information from 
+large databases, is a powerful new technology with great potential 
+to help companies focus on the most important information in their 
+data warehouses. Data mining tools predict future trends and 
+behaviors, allowing businesses to make proactive, knowledge-driven 
+decisions. The automated, prospective analyses offered by data 
+mining move beyond the analyses of past events provided by 
+retrospective tools typical of decision support systems. 
